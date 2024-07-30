@@ -1,4 +1,4 @@
-package com.grimco.rest_service
+package com.grimco.rest_service.controller
 
 import org.springframework.http.HttpStatus
 import org.springframework.http.ResponseEntity
